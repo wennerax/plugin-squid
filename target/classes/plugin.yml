@@ -1,0 +1,7 @@
+name: FoxSquad
+version: '1.0-SNAPSHOT'
+main: wennera.foxsquad.FoxSquad
+api-version: '1.16'
+commands:
+  squid:
+    description: Вступить в игру "Кальмара"
